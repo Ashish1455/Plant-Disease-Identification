@@ -1,0 +1,12 @@
+# Core dependencies for plant disease classification
+tensorflow>=2.17.0
+numpy>=1.26.4
+pillow>=10.2.0
+keras>=3.3.3
+
+# GUI dependencies (tkinter comes with Python by default)
+# Additional image processing
+opencv-python>=4.9.0.80
+
+# Utilities
+tqdm>=4.66.4
