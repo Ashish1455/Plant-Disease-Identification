@@ -41,7 +41,7 @@ A comprehensive machine learning project for classifying plant diseases from ima
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Ashish1455/Plant-Disease-Identification.git
    cd plant-disease-classification
    ```
 
